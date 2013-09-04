@@ -5,9 +5,9 @@ sample for Scala.
 
 Number place solver
 ------------
-* directory
+* directory  
 number_place
-* how to run
+* how to run  
 scala nplace.scala (number sequence. 1-9 for initially placed numbers and 0 for empty squares)
 
 Calculator
